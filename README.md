@@ -46,5 +46,6 @@ https://github.com/clfurman/PatternMatchingSealedFinal
 
 <hr>
 <b>Java 8 Pattern Matching</b>
+
 https://github.com/clfurman/PatternMatchingJava8
 
