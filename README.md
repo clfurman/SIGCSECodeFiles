@@ -5,7 +5,7 @@
 <b>Activity 1: Implicitly Declared Classes & Instance Main Methods with VS Code</b>
 
 <pre><code>void main(){
-<p>&Tab;     System.out.println ("Hi there class!");</p>
+<p>&Tab;System.out.println ("Hi there class!");</p>
 }</code></pre>
 <hr>
 <b>Activity 2: Java Playground Things to Try</b>
@@ -20,11 +20,11 @@ b.
 
 
 c.
-	<code>int x = 5; 
+	<pre><code>int x = 5; 
 	if (x % 2 == 0){
-		System.out.println ("The value of x is even");
+	<p>&Tab;System.out.println ("The value of x is even");</p>
 	else
-		System.out.println ("The value of x is odd");</code>
+	<p>&Tab;System.out.println ("The value of x is odd");</p></code></pre>
 <hr>
 <b>Activity 3: String Templates</b>
 
