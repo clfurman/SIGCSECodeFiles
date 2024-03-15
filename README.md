@@ -9,6 +9,8 @@
 }</code>
 <hr>
 <b>Activity 2: Java Playground Things to Try</b>
+
+
 a.
 <code>System.out.println("Hello World! ");</code>
 b.
@@ -21,6 +23,8 @@ c.
 		System.out.println ("The value of x is odd");</code>
 <hr>
 <b>Activity 3: String Templates</b>
+
+
 <code>int x = 5; 
 int y = 10;
 String concatS = "The sum of " + x + " and " + y + " is " + (x + y); 
