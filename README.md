@@ -33,3 +33,18 @@ c.
 int y = 10;
 String concatS = "The sum of " + x + " and " + y + " is " + (x + y); 
 String s =  STR."The sum of \{x} and \{y} is \{x + y}";</code>
+
+<hr>
+<b> Meteorite Data Project</b>
+
+https://github.com/clfurman/MeteoriteDataProjectFinal
+
+<hr>
+<b>Pattern Matching and Sealed Interfaces </b>
+
+https://github.com/clfurman/PatternMatchingSealedFinal
+
+<hr>
+<b>Java 8 Pattern Matching</b>
+https://github.com/clfurman/PatternMatchingJava8
+
