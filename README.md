@@ -13,8 +13,12 @@
 
 a.
 <code>System.out.println("Hello World! ");</code>
+
+
 b.
 <code>System.out.println (5 % 2);</code>
+
+
 c.
 	<code>int x = 5; 
 	if (x % 2 == 0){
