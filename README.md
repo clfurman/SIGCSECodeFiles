@@ -21,7 +21,7 @@ b.
 
 c.
 	<pre><code>int x = 5; 
-	if (x % 2 == 0){
+	if (x % 2 == 0)
 	<p>&Tab;System.out.println ("The value of x is even");
 	else
 	&Tab;System.out.println ("The value of x is odd");</p></code></pre>
