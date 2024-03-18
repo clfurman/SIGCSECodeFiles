@@ -32,5 +32,6 @@ Having trouble?
 <hr>
 <b>LESSON 2 Intro to GitHub</b>
 
+
 9.	OPTIONAL: Complete this lesson if you are unfamiliar with how to use GitHub. Much of this lesson shows students how to collaborate using GitHub file repository. 
 
