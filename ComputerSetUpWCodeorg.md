@@ -9,7 +9,7 @@ Please keep in mind that some of these instructions are student facing, so we ha
 
 1.	Sign up for a code.org account here: Learn today, build a brighter tomorrow. | Code.org
 
-2.	Join the workshop section using this join code: studio.code.org/join/SNGZDD
+2.	Join the workshop section using this join code: https://studio.code.org/join/SNGZDD
 
 3.	Navigate to the Software Engineering & Computer Vision course here: https://studio.code.org/s/csa-software-engineering
 
