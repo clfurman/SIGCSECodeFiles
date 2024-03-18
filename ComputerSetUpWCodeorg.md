@@ -19,9 +19,10 @@ Please keep in mind that some of these instructions are student facing, so we ha
 4.	Complete Lesson 1 Steps 1 – 3 to download and install Java and Visual Studio Code. You need to install the latest version of Java, at least Java 21. Java 22 is being released March 19, 2024. 
 
 5.	Complete Lesson 1 Step 4 to obtain a GitHub account if you do not have one already. You do not need to complete the “Student Developer Pack”. Be sure to configure GitHub in VS Code. 
+
 Having trouble?
 
-•	Be sure that your environment variables are set up to include the git bin and git cmd
+•	Be sure that your environment variables are set up to include the git bin and git cmd.
 
 •	Do you need to turn off VPN?
 
