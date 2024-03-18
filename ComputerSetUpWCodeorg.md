@@ -20,7 +20,9 @@ Please keep in mind that some of these instructions are student facing, so we ha
 
 5.	Complete Lesson 1 Step 4 to obtain a GitHub account if you do not have one already. You do not need to complete the “Student Developer Pack”. Be sure to configure GitHub in VS Code. 
 Having trouble?
+
 •	Be sure that your environment variables are set up to include the git bin and git cmd
+
 •	Do you need to turn off VPN?
 
 6.	Complete Lesson 1 Step 5 to gain access to copilot.
