@@ -1,5 +1,7 @@
 <b>Laptop Set-up Instructions</b>
-Please allow approximately <b>30 minutes<b/> to download and install the necessary software outlined below prior to the workshop. 
+
+
+Please allow approximately <b>30 minutes</b> to download and install the necessary software outlined below prior to the workshop. 
 Please keep in mind that some of these instructions are student facing, so we have provided guidance below that will help translate these directions for instructors instead.
 
 <hr>
