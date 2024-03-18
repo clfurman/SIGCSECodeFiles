@@ -7,7 +7,7 @@ Please keep in mind that some of these instructions are student facing, so we ha
 <hr>
 <b>CODE.ORG SIGN UP</b>
 
-1.	Sign up for a code.org account here: Learn today, build a brighter tomorrow. | Code.org
+1.	Sign up for a code.org account here: Learn today, build a brighter tomorrow. | www.Code.org
 
 2.	Join the workshop section using this join code: https://studio.code.org/join/SNGZDD
 
