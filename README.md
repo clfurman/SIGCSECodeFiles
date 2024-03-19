@@ -5,7 +5,7 @@
 <b>Activity 1: Implicitly Declared Classes & Instance Main Methods with VS Code</b>
 
 <pre><code>void main(){
-<p>&Tab;System.out.println ("Hi there class!");
+<p>    System.out.println ("Hi there class!");
 }</p></code></pre>
 <hr>
 <b>Activity 2: Java Playground Things to Try</b>
