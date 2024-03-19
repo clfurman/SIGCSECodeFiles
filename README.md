@@ -22,9 +22,9 @@ b.
 c.
 	<pre><code>int x = 5; 
 	if (x % 2 == 0)
-	<p>    System.out.println ("The value of x is even");
+	<p>    System.out.println ("The value of x is even");</p>
 	else
-	    System.out.println ("The value of x is odd");</p></code></pre>
+	<p>    System.out.println ("The value of x is odd");</p></code></pre>
 <hr>
 <b>Activity 3: String Templates</b>
 
