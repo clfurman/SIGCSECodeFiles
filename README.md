@@ -1,63 +1,63 @@
 # SIGCSECodeFiles
 
-<hr>
+### Activity 1: Implicitly Declared Classes & Instance Main Methods with VS Code
 
-<b>Activity 1: Implicitly Declared Classes & Instance Main Methods with VS Code</b>
+```java
+void main() {
+    System.out.println ("Hi there class!");
+}
+```
 
-<pre><code>void main(){
-<p>    System.out.println ("Hi there class!");
-}</p></code></pre>
-<hr>
-<b>Activity 2: Java Playground Things to Try</b>
+### Activity 2: Java Playground Things to Try
 
+#### a. 
+```java
+System.out.println("Hello World!");
+```
 
-a.
-<code>System.out.println("Hello World!");</code>
+#### b.
+```java
+System.out.println(5 % 2);
+```
 
+#### c.
+```java
+int x = 5;
+if (x % 2 == 0)
+    System.out.println("The value of x is even");
+else
+    System.out.println("The value of x is odd");
+```
 
-b.
-<code>System.out.println (5 % 2);</code>
+### Activity 3: String Templates
 
-
-c.
-	<pre><code>int x = 5; 
-	if (x % 2 == 0)
-	<p>    System.out.println ("The value of x is even"); else
-	    System.out.println ("The value of x is odd");</p></code></pre>
-
-
-OR
-
-<pre><code>int x = 5; 
-	if (x % 2 == 0)
-	<p>    System.out.println ("The value of x is even"); else</p>
-	<p>    System.out.println ("The value of x is odd");</p></code></pre>
-
-<hr>
-<b>Activity 3: String Templates</b>
-
-
-<pre><code>int x = 5; 
+```java
+int x = 5; 
 int y = 10;
-String concatS = "The sum of " + x + " and " + y + " is " + (x + y); 
-String s =  STR."The sum of \{x} and \{y} is \{x + y}";</code></pre>
+String concatenated = "The sum of " + x + " and " + y + " is " + (x + y); 
+String interpolated = STR."The sum of \{x} and \{y} is \{x + y}";
+```
 
-<hr>
-<b>Point Class Vs. Point Record</b>
+---
+
+#### Point Class Vs. Point Record
 
 https://github.com/clfurman/PointClassVsRecord
-<hr>
-<b> Meteorite Data Project</b>
+
+---
+
+#### Meteorite Data Project
 
 https://github.com/clfurman/MeteoriteDataProjectFinal
 
-<hr>
-<b>Pattern Matching and Sealed Interfaces </b>
+---
+
+#### Pattern Matching and Sealed Interfaces
 
 https://github.com/clfurman/PatternMatchingSealedFinal
 
-<hr>
-<b>Java 8 Pattern Matching</b>
+---
+
+#### Java 8 Pattern Matching
 
 https://github.com/clfurman/PatternMatchingJava8
-
