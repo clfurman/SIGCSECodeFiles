@@ -61,3 +61,7 @@ https://github.com/clfurman/PatternMatchingSealedFinal
 #### Java 8 Pattern Matching
 
 https://github.com/clfurman/PatternMatchingJava8
+
+#### Workshop Survey
+
+https://www.surveymonkey.com/r/sigcse24-workshop-fri
