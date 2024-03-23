@@ -1,5 +1,11 @@
 # SIGCSECodeFiles
 
+
+Jamila - jamila@code.org
+Crystal - crystal.furman@oracle.com
+Heather - heather.stephens@oracle.com
+Shawn - slupoli@csd.tamu.edu
+
 ### Activity 1: Implicitly Declared Classes & Instance Main Methods with VS Code
 
 ```java
